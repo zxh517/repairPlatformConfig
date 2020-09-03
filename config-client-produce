@@ -1,4 +1,4 @@
 server:
-  port: 30002
+  port: 30001
 foo: foo version test
 env: produce
