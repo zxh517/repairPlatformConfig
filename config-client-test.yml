@@ -2,3 +2,5 @@ server:
   port: 30001
 foo: foo version test
 env: test
+theVision: release
+
