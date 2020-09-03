@@ -1,4 +1,0 @@
-server:
-  port: 30001
-foo: foo version test
-env: pro
